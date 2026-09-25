@@ -1,4 +1,3 @@
-# WDebbie-I
 <!Doctype html>
 <html lang<"en">
 <head>
@@ -8,7 +7,7 @@
 </head>
 <body> 
     <h1>Debbie Wanjiru</h1>
-    <img src="images/prifile.jpg" ait="profile picture" width="100"><br>
+    <img src="image.jpg" ait="profile picture" width="100"><br>
     <a href="about.html">About</a>
     <a href="service.html">service</a>
     <a href="contact.html">contact</a>
@@ -21,4 +20,35 @@
     <p>Iam also intrested in problem-solving,website design and developing practical project that improve my programming skills.</p>
     <p>My goal is to become a skilled web programmer and build innovative digital solution</p>
     <hr>
-    <
+    <section id="service">
+        <h2> Service</h2>
+        <ul>
+            <li> Web Development</li>
+            <li>App maintenance</li>
+
+        </ul>
+    </section>
+    <hr>
+    <section id="contact">
+        <h2> Contact</h2>
+        <p>Email: <a href="debbiewanjiru014@gmail.com"target="_blank">debbbiewanjiru014@gmail.com</a></p>
+        <p>GitHub: <a href=" https://26/07555-cloud.github.io/WDebbie-I"target="_blank">WDebbie-I</a></p>
+        <P>ResearchGate: <a href="https://26/07555-cloud.github,io/WDebbie-I/targe
+        please feel free to reach out for collaboration or inquiries about my work.
+    </section>
+    <hr>
+    </section id="projec">
+    <h2>Project</h2>
+
+    <h3>FNSM App</h3>
+    <p>An web application for reporting crimes.</p>
+    
+    <h3> X-Motors</h3>
+    <p>A web application for managing automotive sales and inventory.</p>
+    <footer>
+        <p> &copy; Copyright 2026 Debbie Wanjiru. All rights reserve.</p>
+    </footer>
+
+
+</body>
+<html>
