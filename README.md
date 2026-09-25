@@ -26,7 +26,7 @@
             <li> Web Development</li>
             <li>App maintenance</li>
 
-        </ul>
+        <hr>
     </section>
     <hr>
     <section id="contact">
